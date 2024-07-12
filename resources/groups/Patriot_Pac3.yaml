@@ -1,0 +1,12 @@
+name: Patriot Pac3
+tasks:
+  - LORAD
+units:
+  - MIM104_LTAMDS
+  - SAM Patriot CR (AMG AN/MRC-137)
+  - MIM104_ECS
+  - SAM Patriot C2 ICC
+  - MIM104_EPP
+  - MIM104_M903_PAC3
+layouts:
+  - Patriot_Pac2_Battery

@@ -1,0 +1,9 @@
+name: NASAMS ER
+tasks:
+  - MERAD
+units:
+  - CH_NASAMS3_CP
+  - CH_NASAMS 3 SR
+  - CH_NASAMS 3 LCHR LN (AMRAAM-ER)
+layouts:
+  - 4 Launcher Site (Circle)

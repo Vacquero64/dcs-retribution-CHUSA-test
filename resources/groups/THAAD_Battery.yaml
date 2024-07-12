@@ -1,0 +1,14 @@
+name: THAAD Battery
+tasks:
+  - MERAD
+units:
+  - CH_THAAD_ANTPY2
+  - SAM Patriot CR (AMG AN/MRC-137)
+  - MIM104_ECS
+  - SAM Patriot C2 ICC
+  - MIM104_EPP
+  - CH_THAAD_M1120
+  - CH_THAAD_TFCC
+  
+layouts:
+  - THAAD_Battery
