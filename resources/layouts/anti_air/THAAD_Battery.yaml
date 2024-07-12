@@ -1,0 +1,52 @@
+name: THAAD Battery
+tasks:
+  - LORAD
+groups:
+  - Patriot:
+    - name: THAAD Battery 0
+      unit_count:
+        - 1
+      unit_types:
+        - CH_THAAD_ANTPY2
+    - name: THAAD Battery 1
+      unit_count:
+        - 1
+      unit_types:
+        - Patriot AMG
+    - name: THAAD Battery 2
+      unit_count:
+        - 1
+      unit_types:
+        - [CH] THAAD TFCC
+    - name: THAAD Battery 3
+      unit_count:
+        - 1
+      unit_types:
+        - Patriot cp
+    - name: THAAD Battery 4
+      unit_count:
+        - 1
+      unit_types:
+        - MIM-104 EPP
+    - name: THAAD Battery 5
+      unit_count:
+        - 8
+      unit_types:
+        - CH_THAAD_M1120
+  - PD:
+    - name: THAAD Battery 7
+      optional: true
+      sub_task: PointDefense
+      unit_count:
+        - 1
+        - 2
+      unit_classes:
+        - SHORAD
+    - name: THAAD Battery 6
+      sub_task: AAA
+      optional: true
+      unit_count:
+        - 1
+        - 2
+      unit_classes:
+        - AAA
