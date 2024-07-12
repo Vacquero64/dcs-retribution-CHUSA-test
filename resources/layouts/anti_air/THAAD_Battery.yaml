@@ -17,7 +17,7 @@ groups:
       unit_count:
         - 1
       unit_types:
-        - [CH] THAAD TFCC
+        - CH_THAAD_TFCC
     - name: THAAD Battery 3
       unit_count:
         - 1
