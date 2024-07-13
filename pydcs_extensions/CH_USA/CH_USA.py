@@ -1,7 +1,7 @@
 # Requires Currenthill US Forces
 # https://www.currenthill.com/usa
 #
-from dcs import Set
+from typing import Set
 
 from dcs import unittype
 from game.modsupport import vehiclemod, shipmod
